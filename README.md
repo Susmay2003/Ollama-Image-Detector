@@ -20,3 +20,5 @@ conda activate car
 pip install -r requirements.txt
 
 😊  Make Sure Ollama is Running
+
+for run code -- python maim.py car_images\image name
